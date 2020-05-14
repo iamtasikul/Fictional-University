@@ -1,0 +1,1 @@
+mu-plugins Folder Must be placed under wp-content folder
